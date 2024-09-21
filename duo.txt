@@ -1,0 +1,7 @@
+[arp]
+Hijacking: True
+Finish: False
+
+[dns]
+Hijacking: True
+Finish: False
