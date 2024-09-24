@@ -4,7 +4,7 @@ arp_finish: False
 IP: 192.168.56.215
 
 [dns]
-arp_hijacking: True
-arp_finish: False
+dns_hijacking: True
+dns_finish: False
 IP: 192.168.56.215
 Fake: 1.3.5.7
