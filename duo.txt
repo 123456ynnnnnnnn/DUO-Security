@@ -1,6 +1,6 @@
 [arp]
 arp_hijacking: True
-arp_finish: False
+arp_finish: True
 IP: 192.168.56.215
 
 [dns]
