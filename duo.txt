@@ -1,11 +1,11 @@
 [arp]
-arp_hijacking: True
-arp_finish: False
+arp_hijacking: False
+arp_finish: True
 IP: 192.168.56.215
 
 [dns]
-dns_hijacking: True
-dns_finish: False
+dns_hijacking: False
+dns_finish: True
 IP: 192.168.56.215
 Domain: www.baidu.com
 Fake: 1.3.5.7
